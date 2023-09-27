@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/nonoXwb/SDom/tree/master/assets/final_pipeline.png">
+  <img src="https://github.com/nonoXwb/SDom/blob/master/assets/final_pipeline.png">
 </p>
 
 ### Pneumoconiosis X-Ray Chest X-ray Dataset
@@ -29,7 +29,7 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 \
 
 ### Generate analysis of results
 <p align="center">
-  <img src="https://github.com/nonoXwb/SDom/tree/master/assets/final_teaser.png" width="720">
+  <img src="https://github.com/nonoXwb/SDom/blob/master/assets/final_teaser.png" width="720">
 </p>
 
 ## Training MKTransformer
