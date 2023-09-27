@@ -12,7 +12,7 @@ We split Pneumoconiosis X-Ray Chest X-ray Dataset to simplify the input of annot
 ```
 If the image is positive with one class, the corresponding bit is 1, otherwise is 0. 
 
-## Unsupervised Lung Swapping Pre-training
+## Training ARMGan
 The command is following. Please fill in the blanks with your own paths.
 ```
 CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 \
