@@ -8,7 +8,7 @@
 ### Pneumoconiosis X-Ray Chest X-ray Dataset
 We split Pneumoconiosis X-Ray Chest X-ray Dataset to simplify the input of annotations, we generate [train list]and [test list]. Each line is composed of the image name and the corresponding labels like below:
 ```
-00000001_002.png 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+04000251_032.png 0 1 1 0 0 1 0 0 0 1 0 0 0 0
 ```
 If the image is positive with one class, the corresponding bit is 1, otherwise is 0. 
 
