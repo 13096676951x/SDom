@@ -1,4 +1,4 @@
-# SDoM: A diagnostic model for staging pneumoconiosis based on data expansion and KL entropy judgement
+# WIDINet: A diagnostic model for staging pneumoconiosis based on data expansion and KL entropy judgement
 
 
 <p align="center">
